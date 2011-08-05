@@ -1,5 +1,6 @@
 call pathogen#runtime_append_all_bundles()
 
+set encoding=utf-8
 source ~/.vim/global.vim
 source ~/.vim/status.vim
 source ~/.vim/bindings.vim
