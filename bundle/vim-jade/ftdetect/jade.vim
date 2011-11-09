@@ -1,2 +1,2 @@
 " Jade
-autocmd BufNewFile,BufReadPost *.jade set filetype=jade
+autocmd BufNewFile,BufRead *.jade setf jade
