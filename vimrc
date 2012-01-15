@@ -1,4 +1,7 @@
 call pathogen#runtime_append_all_bundles()
+filetype off
+syntax on
+filetype plugin indent on
 
 set encoding=utf-8
 source ~/.vim/global.vim
